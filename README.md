@@ -2,7 +2,15 @@
 
 Demo
 
+![Screenshot 2023-08-02 at 10 52 16 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/f0a54c12-84a3-4efd-9a82-719338fa4eaf)
 
+<hr>
+
+# Druid(Rust)
+
+- Druid[![crates.io](https://img.shields.io/crates/v/druid.svg)](https://crates.io/crates/druid)![License+Druid](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)![bevyDownloads](https://img.shields.io/crates/d/druid.svg)<a href="https://github.com/linebender/druid"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![bevystar](https://img.shields.io/github/stars/linebender/druid.svg)
+
+https://crates.io/crates/druid
 
 # druid-example
 
@@ -20,9 +28,7 @@ https://github.com/linebender/druid/tree/master/druid/examples
 
 [page1](https://github.com/YoungHaKim7/druid-example/issues/1)
 
-- Druid[![crates.io](https://img.shields.io/crates/v/druid.svg)](https://crates.io/crates/druid)![License+Druid](https://img.shields.io/badge/license-MIT%2FApache-blue.svg)![bevyDownloads](https://img.shields.io/crates/d/druid.svg)<a href="https://github.com/linebender/druid"><img alt="githubicon" width="20px" src="https://user-images.githubusercontent.com/67513038/218287708-001511d7-1cce-42d3-92d2-4a61193b38f0.png" /></a>![bevystar](https://img.shields.io/github/stars/linebender/druid.svg)
 
-https://crates.io/crates/druid
 
 # Druid Github
 
