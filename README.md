@@ -4,6 +4,10 @@ Demo
 
 ![Screenshot 2023-08-06 at 5 38 33 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/cc0fcc8a-9b07-4cb2-865c-1dfe4237a8f1)
 
+- Format decimal number
+
+https://programming-idioms.org/idiom/65/format-decimal-number/412/rust
+
 <hr>
 
 # Druid(Rust)
