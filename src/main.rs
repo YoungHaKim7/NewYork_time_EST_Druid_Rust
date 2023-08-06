@@ -1,8 +1,8 @@
 #![windows_subsystem = "windows"]
 
-use druid::widget::{CrossAxisAlignment, Controller};
+use druid::widget::{Controller, CrossAxisAlignment};
 use druid::widget::{Flex, Label};
-use druid::{AppLauncher, Lens, WidgetExt, WindowDesc, Data, Widget, EventCtx, Event, Env};
+use druid::{AppLauncher, Data, Env, Event, EventCtx, Lens, Widget, WidgetExt, WindowDesc};
 
 use chrono::Utc;
 use chrono_tz::America::New_York;
@@ -60,16 +60,16 @@ fn build_root_widget() -> impl Widget<TimeState> {
 
 impl TimeState {
     fn get_time(&mut self) -> String {
-        Utc::now().with_timezone(&New_York).to_string()
+        let raw_ny_time = Utc::now().with_timezone(&New_York).to_string();
+        return format!("NewYork_Time: \n {:.19}", raw_ny_time);
     }
 }
-
 
 pub fn main() {
     // describe the main window
     let main_window = WindowDesc::new(build_root_widget())
         .title("NewYork_Time: EST!")
-        .window_size((249.0, 35.0))
+        .window_size((255.0, 72.0))
         .resizable(false);
 
     // create the initial app state

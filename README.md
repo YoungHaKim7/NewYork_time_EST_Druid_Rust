@@ -2,7 +2,7 @@
 
 Demo
 
-![Screenshot 2023-08-02 at 10 52 16 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/f0a54c12-84a3-4efd-9a82-719338fa4eaf)
+![Screenshot 2023-08-06 at 5 38 33 PM](https://github.com/YoungHaKim7/Cpp_Training/assets/67513038/cc0fcc8a-9b07-4cb2-865c-1dfe4237a8f1)
 
 <hr>
 
